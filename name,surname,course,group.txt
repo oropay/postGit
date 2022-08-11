@@ -1,6 +1,0 @@
-{
-    "name": "vitalii",
-    "surname": "oropai",
-    "course": "qa",
-    "group": "one"
-}
